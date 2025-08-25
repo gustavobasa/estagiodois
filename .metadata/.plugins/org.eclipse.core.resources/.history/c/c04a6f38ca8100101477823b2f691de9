@@ -1,0 +1,5 @@
+package com.turmab.helpdesk.CommandLineRunner;
+
+public class StartupMessage {
+
+}
